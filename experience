@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet">
+    <title>ariel embeya portefolio-experience</title>
+</head>
+<body>
+   <section class="contain">
+      <div class="text">
+        Ariel
+       </div>
+       <div class="lien">
+         <a href="index.html"><img src="home.png" alt="acceuille">acceuille</a>
+         <a href="contacte"><img src="personne.png" alt="personne"> Me contacter</a>
+         <a href="Mes objectifs">Mes objectifs</a>
+         <a href="experience" class="active">Mon experience</a>
+        </div>
+        <div class="reve">
+         comme je l'ai dit precedemment je maitrise l html ,le css mais j ai des connaissances sur git et github sans oublier mon experience dans les frameworks telle que BOUTSTRAP ET TAILWINDCSS   
+        </div>
+   </section> 
+</body>
+</html>
