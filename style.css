@@ -90,7 +90,7 @@ body{
     .lien{
         position: absolute;
         top:10%;
-        left:1px;
+        left:0.5px;
     }
     .contacte-ici{
         margin-top:10%;
@@ -101,7 +101,7 @@ body{
         font-size: 1rem;
      }
     .lien a{
-        font-size: 14px;
+        font-size: 15px;
     }
     .contain{
         height: 100vh;
