@@ -90,6 +90,7 @@ body{
     .lien{
         position: absolute;
         top:10%;
+        left:2%;
     }
     .contacte-ici{
         margin-top:10%;
@@ -107,6 +108,15 @@ body{
         margin-top:0;
         width:100%;
     }
+    
+.contain{
+    width:100%;
+    height: 100vh;
+    margin-left:0;
+    margin-top:0;
+    background-color: rgba(255, 255, 255,1);
+    display: flex;
+}
     .lien a img{
         height:1px
     }
