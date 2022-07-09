@@ -90,7 +90,6 @@ body{
     .lien{
         position: absolute;
         top:10%;
-        left: 2%;
     }
     .contacte-ici{
         margin-top:10%;
@@ -124,7 +123,7 @@ body{
  }
  .sidebar2 img{
     width:90vw;
-    margin-top: 40%;
+    margin-top: 45%;
     height: 35vh;
  }
  .sidebar{
