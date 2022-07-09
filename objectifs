@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet">
+    <title>ariel embeya portefolio-objectifs</title>
+</head>
+<body>
+   <section class="contain">
+      <div class="text">
+        Ariel
+       </div>
+       <div class="lien">
+        <a href="index.html" ><img src="home.png" alt="acceuille">acceuille</a>
+        <a href="contacte"><img src="personne.png" alt="personne"> Me contacter</a>
+        <a href="Mes objectifs" class="active">Mes objectifs</a>
+        <a href="experience">Mon experience</a>
+        </div>
+       <div class="reve">
+        j ai pour objectif de devenir un grand programmeur pour l instant je maitrise l html et le css mais j ai egalement plusieur connaissance dans git et des frameworks comme BOUTRAP ET TAILWINDCSS.
+         J ai pour objectif d apprendre le PHP et le javascript et de me perfectionner dans ces domaines et ensuite quand j aurai acquis acces d experience je compte me lancer dans le python et d autre langage 
+         qui seront lies a mes objectifs car j ai pour objectif d apprendre la cryptographie un jour, les cryptomonaies m' ont toujours passionne et j espere un jour en apprendre plus grace a la programmation  
+       </div> 
+   </section>
+</body>
+</html>
