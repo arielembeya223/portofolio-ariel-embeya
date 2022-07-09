@@ -89,7 +89,7 @@ body{
 @media screen and (min-width:300px) and (max-width: 600px) {
     .lien{
         position: absolute;
-        top:5%;
+        top:10%;
         left: 2%;
     }
     .contacte-ici{
@@ -112,7 +112,7 @@ body{
         height:1px
     }
  .salutation{
-    margin-top:85%;
+    margin-top:90%;
     font-size: 14px;
  } 
  .conseille{
@@ -124,7 +124,7 @@ body{
  }
  .sidebar2 img{
     width:90vw;
-    margin-top: 20%;
+    margin-top: 30%;
     height: 35vh;
  }
  .sidebar{
