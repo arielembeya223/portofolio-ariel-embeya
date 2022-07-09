@@ -13,10 +13,10 @@
         Ariel
        </div>
        <div class="lien">
-         <a href="index.html"><img src="home.png" alt="acceuille">acceuille</a>
-         <a href="contacte" class="active"><img src="personne.png" alt="personne"> Me contacter</a>
-         <a href="objectifs">Mes objectifs</a>
-         <a href="experience">Mon experience</a>
+         <a href="https://arielembeya223.github.io/portofolio-ariel-embeya/"><img src="home.png" alt="acceuille">acceuille</a>
+         <a href="https://arielembeya223.github.io/contact/" class="active"><img src="personne.png" alt="personne"> Me contacter</a>
+         <a href="https://arielembeya223.github.io/ariel-portefolio-objectifs/">Mes objectifs</a>
+         <a href="https://arielembeya223.github.io/ariel-portefolio-experience/">Mon experience</a>
         </div>
        <div class="contacte-ici">
          vous pouvez me contacter et voir mes projets grace <br> a mon compte  github <a href="https://github.com/arielembeya223">ici</a>
