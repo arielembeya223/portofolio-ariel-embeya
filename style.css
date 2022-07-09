@@ -27,7 +27,7 @@ body{
     left:50%;
 }
 .lien a{
-    margin-left: 12px;
+    margin-left: 7px;
     text-decoration: none;
     color:black;
 }
@@ -101,7 +101,7 @@ body{
         font-size: 1rem;
      }
     .lien a{
-        font-size: 12px;
+        font-size: 15px;
     }
     .contain{
         height: 100vh;

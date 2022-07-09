@@ -15,7 +15,7 @@
        <div class="lien">
         <a href="index.html" ><img src="home.png" alt="acceuille">acceuille</a>
         <a href="contacte"><img src="personne.png" alt="personne"> Me contacter</a>
-        <a href="Mes objectifs" class="active">Mes objectifs</a>
+        <a href="objectifs" class="active">Mes objectifs</a>
         <a href="experience">Mon experience</a>
         </div>
        <div class="reve">
