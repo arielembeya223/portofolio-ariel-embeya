@@ -140,6 +140,7 @@ body{
     width:90vw;
     margin-top: 50%;
     height: 35vh;
+    display: none;
  }
  .sidebar{
 position: absolute;
