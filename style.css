@@ -106,7 +106,6 @@ body{
     .lien a{
         font-size: 18px;
         padding:16px 4px;
-        background-color: aquamarine;
     }
     .contain{
         height: 100vh;
@@ -140,7 +139,6 @@ body{
     width:90vw;
     margin-top: 50%;
     height: 35vh;
-    display: none;
  }
  .sidebar{
 position: absolute;
