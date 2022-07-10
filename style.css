@@ -93,6 +93,7 @@ body{
         display:flex;
         flex-wrap: nowrap;
         width:100vw;
+        justify-content: space-between;
     }
     .contacte-ici{
         margin-top:10%;
