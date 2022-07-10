@@ -27,7 +27,6 @@ body{
     left:50%;
 }
 .lien a{
-    margin-left: 0px;
     text-decoration: none;
     color:black;
 }
@@ -91,6 +90,8 @@ body{
         position: absolute;
         top:10%;
         left:1px;
+        display:flex;
+        flex-wrap: nowrap;
     }
     .contacte-ici{
         margin-top:10%;
