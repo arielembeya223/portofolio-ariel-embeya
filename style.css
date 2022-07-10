@@ -92,6 +92,7 @@ body{
         left:1px;
         display:flex;
         flex-wrap: nowrap;
+        width:100vw;
     }
     .contacte-ici{
         margin-top:10%;
@@ -136,7 +137,7 @@ body{
  }
  .sidebar2 img{
     width:90vw;
-    margin-top: 45%;
+    margin-top: 50%;
     height: 35vh;
  }
  .sidebar{
